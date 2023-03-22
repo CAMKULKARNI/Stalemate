@@ -53,6 +53,4 @@ The files can be viewed in the following order:
 6. visualizations.ipynb and columnVariableTypes.ipynb - This notebook contains the code for visualizing the data.
 
 
-For more information, please look at the Project Report.pdf and Project Presentation.pdf.
-
-"""
+For more information, please look at the Project Report.pdf and Project Presentation.pdf
